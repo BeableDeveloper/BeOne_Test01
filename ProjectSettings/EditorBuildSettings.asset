@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/test scene.unity
+    guid: 8e52b9f3b44fe1348beb72d118f009f5
+  - enabled: 1
+    path: Assets/Scenes/SignIn.unity
+    guid: 4f594ed6cdb850441af9c6aaf5e66738
+  - enabled: 1
+    path: Assets/Unimgpicker/Samples/Picker.unity
+    guid: 5e6bb1628afec4fabb31869b32c39149
+  - enabled: 1
+    path: Assets/Scenes/testScene.unity
+    guid: 74ead474537c0944c9feec463869f2cc
+  - enabled: 1
+    path: Assets/Scenes/Devices.unity
+    guid: 5d775b9aca99cfb428bada2360885c51
+  - enabled: 1
+    path: Assets/Scenes/TestYourselfscene.unity
+    guid: e78513d816ff1c34484692036c1fe410
+  - enabled: 1
+    path: Assets/Scenes/RegisterationPage.unity
+    guid: 5a24a641f5e322149b661a6f259f8131
+  - enabled: 1
+    path: Assets/Scenes/Dashboard.unity
+    guid: aeff7199d6764b74a842e17e3cc94557
+  - enabled: 1
+    path: Assets/Scenes/Message_1.unity
+    guid: 22dc0cb3c0eaa404a937b2ba588dea57
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Notfication.unity
+    guid: b575e2a096bf3bc4789ac87346618ed8
+  - enabled: 1
+    path: Assets/Scenes/Analysis.unity
+    guid: abd95a9585969414ea81f9474c79b847
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Gamescene.unity
+    guid: 268a901e67abdde4d86ebb0a42db7184
+  - enabled: 1
+    path: Assets/Scenes/BreakScene.unity
+    guid: 8677fe0e7475e94418fa43977c0b73c9
+  m_configObjects: {}

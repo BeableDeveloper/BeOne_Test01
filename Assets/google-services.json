@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402128478532",
+    "firebase_url": "https://beone-284914.firebaseio.com",
+    "project_id": "beone-284914",
+    "storage_bucket": "beone-284914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402128478532:android:f90da61a85ea5af45ab711",
+        "android_client_info": {
+          "package_name": "com.BeAble.BeOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402128478532-ncrn0cohsomjopkf5s2h9s30gjjbqprc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV1a-bxEnEFjuIqwfT4FzxHRoAsD77jkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402128478532-ncrn0cohsomjopkf5s2h9s30gjjbqprc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
